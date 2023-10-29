@@ -1,7 +1,7 @@
 name: native_color_picker
 description: A color picker for flutter that calls the beautiful native iOS color picker.
 version: 0.0.1
-homepage:
+homepage: https://github.com/c2p-cmd/native_color_picker
 
 environment:
   sdk: '>=3.1.0 <4.0.0'
@@ -39,6 +39,8 @@ flutter:
       macos:
         pluginClass: NativeColorPickerPlugin
 
+platform:
+  ios:
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg

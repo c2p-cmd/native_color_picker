@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 A color picker for flutter that calls the beautiful native iOS color picker.
 This color picker will call the native view controller to pick a color.
                        DESC
-  s.homepage         = 'http://example.com'
+  s.homepage         = 'https://github.com/c2p-cmd/native_color_picker'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Sharan Thakur' => 'sharandt19@live.com' }
   s.source           = { :path => '.' }
